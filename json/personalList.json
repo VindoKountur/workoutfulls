@@ -1,0 +1,16 @@
+{
+  "personals": [
+    {
+      "id": 1,
+      "workout": "Incline Barbell Bench Press"
+    },
+    {
+      "id": 2,
+      "workout": "Dedicated Push Up"
+    },
+    {
+      "id": 3,
+      "workout": "Dedicated Run for 1000m per day"
+    }
+  ]
+}
