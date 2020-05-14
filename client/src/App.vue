@@ -18,15 +18,14 @@ export default {
   components: {
     Navbar,
     Judul
-  },
-
-  data: () => ({
-    //
-  })
+  }
 };
 </script>
 <style>
 .no-decoration {
   text-decoration: none;
+}
+.relative--card {
+  position: relative;
 }
 </style>
